@@ -1,3 +1,15 @@
+# Check if OpenAI is installed
+try:
+  import openai
+  print("✅ OpenAI module is available")
+except ImportError:
+  print("❌ OpenAI module is NOT installed")
+
+from chatbot import ask_chatbot
+import streamlit as st
+
+# Your Streamlit app code follows...
+
 import streamlit as st
 from chatbot import ask_chatbot
 
