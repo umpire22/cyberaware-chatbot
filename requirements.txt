@@ -6,7 +6,4 @@ langchain-community==0.0.26
 pydantic==1.10.13
 python-dotenv
 
-openai
-langchain
-streamlit
 500c26b257b0593fd6c01735d71539c13417d69c
