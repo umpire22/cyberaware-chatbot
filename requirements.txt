@@ -5,5 +5,4 @@ langchain==0.0.316
 langchain-community==0.0.26
 pydantic==1.10.13
 python-dotenv
-
 500c26b257b0593fd6c01735d71539c13417d69c
